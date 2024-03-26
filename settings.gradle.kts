@@ -6,3 +6,7 @@ pluginManagement {
     }
   }
 }
+
+include(":graphql")
+include(":mod:realtime")
+include(":mod:realtime:impl")

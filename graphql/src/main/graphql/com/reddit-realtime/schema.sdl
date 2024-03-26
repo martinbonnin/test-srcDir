@@ -1,0 +1,7 @@
+type Query {
+  hello_realtime: String!
+}
+
+type Subscription {
+    time: String
+}

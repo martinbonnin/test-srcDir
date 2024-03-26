@@ -1,0 +1,3 @@
+query GetHello3 {
+    alias: hello
+}
